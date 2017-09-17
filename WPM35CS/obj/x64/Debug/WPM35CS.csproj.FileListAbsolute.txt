@@ -1,0 +1,7 @@
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\bin\x64\Debug\WPM35CS.exe
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\bin\x64\Debug\WPM35CS.pdb
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\obj\x64\Debug\WPM35CS.csproj.CoreCompileInputs.cache
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\obj\x64\Debug\WPM35CS.exe
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\obj\x64\Debug\WPM35CS.pdb
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\bin\x64\Debug\CommandLine.dll
+C:\Users\AdminUS\source\repos\WPM35CS\WPM35CS\bin\x64\Debug\CommandLine.xml
